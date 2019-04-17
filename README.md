@@ -1,2 +1,1 @@
-# text-to-image-in-fashion
-text-to-image-in-fashion
+# C++ Implementation dcgan
